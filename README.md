@@ -3,7 +3,7 @@
 Girne Üniversitesi Yazılım Mühendisliği bölümü mezuniyet aşamasında olan bir **Yazılım Mühendisi Adayı** ve **Web Geliştiriciyim**. Modern web teknolojileri, Vue.js tabanlı arayüzler, e-ticaret altyapıları ve IoT çözümleri üzerine projeler üretiyorum.
 
 ### 🚀 Hakkımda
-- 🎓 **Eğitim:** Girne Üniversitesi - Yazılım Mühendisliği (%100 Burslu / Son Sınıf)
+- 🎓 **Eğitim:** Girne Üniversitesi - Yazılım Mühendisliği (%75 Burslu / Son Sınıf)
 - 🎯 **Odak Alanım:** Vue.js Ekosistemi, Web Uygulamaları ve Veritabanı Yönetimi
 - 💼 **Staj Deneyimi:** Donanım ve Teknik Servis Süreçleri (Saha Destek)
 - 🌱 **Şu An Öğreniyorum:** İleri düzey Node.js mimarileri ve Temel Fransızca (A1)
